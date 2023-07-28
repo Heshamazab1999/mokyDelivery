@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "1072986736418",
+    "project_id": "mokymah-f969d",
+    "storage_bucket": "mokymah-f969d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072986736418:android:41a490df0df6715a94077b",
+        "android_client_info": {
+          "package_name": "com.moky_mah_delivery_boy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072986736418-7cv0ro9dcsho8eoadbgaua6hhd945hke.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBn6uvnl-eq9xfxJNyi9PJ-5M_jHJtZK3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1072986736418-7cv0ro9dcsho8eoadbgaua6hhd945hke.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1072986736418-8c8e8tft06t4trdd1vfq2e071bbca50k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mokymah.userapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072986736418:android:48d54c1a576bb6b194077b",
+        "android_client_info": {
+          "package_name": "com.moky_mah_user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072986736418-7cv0ro9dcsho8eoadbgaua6hhd945hke.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBn6uvnl-eq9xfxJNyi9PJ-5M_jHJtZK3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1072986736418-7cv0ro9dcsho8eoadbgaua6hhd945hke.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1072986736418-8c8e8tft06t4trdd1vfq2e071bbca50k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mokymah.userapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
